@@ -4,4 +4,4 @@
 
 💻 I'm looking forward to learning these languages in the near future: C#, Java, Python
 
-👀 Don't be shy and browse my public repositorys!
+👀 Don't be shy and browse through my public repositorys!
