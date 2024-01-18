@@ -1,7 +1,7 @@
 👋 Hello, my name is Henrik Heiser - welcome to my GitHub profile!
 
-🎓 I am 19 years old and currently in an apprenticeship at Mercedes Benz AG to become an application developer
+🎓 I am 20 years old and have recently completed my apprenticeship at Mercedes Benz AG to become a software developer.
 
-💻 I'm looking forward to learning these languages in the near future: C#, Java, Python
+💻 During my apprenticeship, I became proficient in the programming languages C#, Java, and Python.
 
-👀 Don't be shy and browse through my public repositorys!
+👀 Feel free to explore my public repositories!
